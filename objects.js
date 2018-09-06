@@ -7,3 +7,6 @@ function updatePlaylist (playlist, artistName, songTitle) {
   return playlist;
 }
 
+function (playlist, artistName) {
+  
+}
